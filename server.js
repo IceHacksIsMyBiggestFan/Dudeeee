@@ -12,4 +12,4 @@ client.on("message", message => { //when Someone message
   }
 });
 
-client.login('NzM4NDUwMTM2NDg0ODA2NjU5.XyMFSA.zRgBqIcd-cDbDQ79jh5rkgoeF7g'); //Paste Your Bot Token
+client.login('NzQxNDEzNDUxOTU1Njk5ODU0.Xy3NFQ.GMiRMHgdX08zLMDz_VZyKcxLV5Y'); //Paste Your Bot Token
